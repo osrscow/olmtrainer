@@ -1,0 +1,16 @@
+#olmhead {
+    padding: 0;
+    position: relative;
+    margin: auto;
+    display: block;
+    width: 376px;
+}
+
+#grid {
+    padding: 0;
+    position: relative;
+    margin: auto;
+    display: block;
+    width: 800px;
+  }
+
